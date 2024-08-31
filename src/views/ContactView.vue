@@ -30,7 +30,7 @@
       <i class="fas fa-envelope"></i>
     </a>
     <!-- Resume -->
-    <a href="https://doc-00-38-prod-02-apps-viewer.googleusercontent.com/viewer2/prod-02/pdf/hhta9ep5svcqecccbrhrm1e1jubdnure/e57opcm7e5lotvno0dp0r72pg2pq2eej/1725061725000/3/100614821988288310807/APznzaZ7jNCkOchPInlJLAUs4_RCom5d_b3rOMB-t8uc7YYlyKrCzxQ8dHXgRe-pXVVQZ3GAN0XOSiCZVHx-yLP8nN6g2TANCZEZaVYA0iErEs0SR8vH6JCM7JaJjbpaHuGvtmoiF5RmywgvkuntF1ZmJf8SKh8ZFXMplY0LBMJBfhmSk8aQidyak9zPfc5TvWAcFjjnGRm9B1IOBtKEVKCj6b5U-UY8KzfiMI-ojMRH89CMGP2aYPcbsMQMhIZ7T_e-72sHldOEployOpVTAJlRUipMBI5ANLxWsdniGr7SAJrZaAumW1k-kAwheLNFpOigARO5wbeDsv4jLW61JJi14Us6YGsdmo4msU4IyW2_K-0mrcZxTu3pr9J9Ho2zetd34M-2d1e_o8AbjAq6KzA3f_KIzUkYHQ==?authuser=0&nonce=0sfqu2okjbv0e&user=100614821988288310807&hash=9ibu61uj0ge5v7kt6cjgbdc0ueht040v" target="_blank">
+    <a href="https://uc4a6c17e0ec9e927d6605ed72c6.previews.dropboxusercontent.com/p/orig/ACZZIZk9WpES5Z4L9iLF-Ae_oCJk97J-3UNLlw2bw71eQh_TzgWG8AWRikKD6HuMj49UQtf0sjxLDPTsikKTwIicy1uOGfvqgnKttT4J1yPSZqIu7VErb371deZwLFIKdUNSIaJVKUeD1L5Oo1JRLVdFyTNa3-4gp_4mLvmygXI2nyqGCBvwjMsz4PtZaSmi_ePKoLurl6EBomAcOsWDC42Hos7HmnmrU_k8gcKFqcO11EX6qptrRfXXUqp6QWza2ffUiTPYy8aFN-8f5wFG-wDKEzgstUsfqrJm_AI2hkwFHSPXIbPrcACQbdyPakYBynDvRLVJrkYRdGOVcE48Wj_Twzwlo1GJYQFmu0hfDC0h30zOJFvZxSJiqr6phzSOCIY/p.pdf" target="_blank">
       <i class="fas fa-file-alt"></i>
     </a>
   </div>

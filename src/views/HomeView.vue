@@ -28,6 +28,9 @@
         class="w-10/12 md:h-auto rounded-full border-4 border-amber-200 pict" src="https://i.imgur.com/v31J0tQ.jpeg">
     </div>
   </main>
+  <div class="absolute bottom--0 left-4 text-white text-xs md:text-sm">
+    Copyright &copy; 2024 Mariyam Member. All rights reserved.
+  </div>
 </template>
 
 <script>
@@ -226,4 +229,7 @@ body {
 .fade-500 {
   animation-delay: 500ms;
 }
+
+
+
 </style>
