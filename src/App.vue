@@ -11,7 +11,7 @@
         <div class="flex md:order-2 fadein-bot space-x-4">
           <a href="https://github.com/Mar1yam" target="_blank" rel="noopener noreferrer"><img class="w-9 rounded-full" src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png" alt="github"></a>
           <a href="https://www.linkedin.com/in/mariyam-m-3989a4224/" target="_blank" rel="noopener noreferrer"><img class="w-9 rounded-full" src="https://img.icons8.com/?size=100&id=447&format=png&color=FFFFFF" alt="linkdin"></a>
-          <a href="https://uc4a6c17e0ec9e927d6605ed72c6.previews.dropboxusercontent.com/p/orig/ACZZIZk9WpES5Z4L9iLF-Ae_oCJk97J-3UNLlw2bw71eQh_TzgWG8AWRikKD6HuMj49UQtf0sjxLDPTsikKTwIicy1uOGfvqgnKttT4J1yPSZqIu7VErb371deZwLFIKdUNSIaJVKUeD1L5Oo1JRLVdFyTNa3-4gp_4mLvmygXI2nyqGCBvwjMsz4PtZaSmi_ePKoLurl6EBomAcOsWDC42Hos7HmnmrU_k8gcKFqcO11EX6qptrRfXXUqp6QWza2ffUiTPYy8aFN-8f5wFG-wDKEzgstUsfqrJm_AI2hkwFHSPXIbPrcACQbdyPakYBynDvRLVJrkYRdGOVcE48Wj_Twzwlo1GJYQFmu0hfDC0h30zOJFvZxSJiqr6phzSOCIY/p.pdf" target="_blank" rel="noopener noreferrer"><img class="w-9 rounded-full" src="https://img.icons8.com/?size=100&id=121320&format=png&color=FFFFFF" alt="Resume"></a>
+          <a href="/Resume-Mariyam-Member.pdf" target="_blank" rel="noopener noreferrer"><img class="w-9 rounded-full" src="https://img.icons8.com/?size=100&id=121320&format=png&color=FFFFFF" alt="Resume"></a>
         </div>
         <div class="hidden md:flex justify-between items-center w-full md:w-auto md:order-1" id="mobile-menu-3">
           <ul class="flex-col md:flex-row flex md:space-x-8 mt-4 md:mt-0 md:text-sm md:font-medium">

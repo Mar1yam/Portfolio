@@ -10,8 +10,8 @@ export default {
           imageUrl: 'https://i.imgur.com/0238VSz.png',
           status: 'My personal website, I created this website to display my profile, skills and projects.',
           tech: 'VueJS 3, Tailwind, Bootstrap, npm, HTML, CSS, JavaScript',
-          github: '',
-          demo: ''
+          github: 'https://github.com/Mar1yam/Portfolio',
+          demo: 'https://main--mariyammember.netlify.app/'
         },
         {
           id: 2,
