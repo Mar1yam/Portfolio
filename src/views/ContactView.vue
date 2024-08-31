@@ -39,37 +39,28 @@
         </div>
         <div class="contact-form">
           <div class="circle two"></div>
-          <form
+<form
   action="https://formspree.io/f/xqaznoky"
   method="POST"
-  autocomplete="off"
 >
   <h3 class="title">Contact.</h3>
   
   <div class="input-container">
-    <input type="text" name="name" class="input" required />
-    <label for="name">Name</label>
-    <span>Name</span>
-  </div>
+    <input type="text" name="name" class="input" placeholder="Name" required/>
+</div>
 
-  <div class="input-container">
-    <input type="email" name="email" class="input" required />
-    <label for="email">Email</label>
-    <span>Email</span>
-  </div>
+<div class="input-container">
+    <input type="email" name="email" class="input" placeholder="Email" required/>
+</div>
 
-  <div class="input-container">
-    <input name="subject" type="text" class="input" required />
-    <label for="subject">Subject</label>
-    <span>Subject</span>
-  </div>
+<div class="input-container">
+    <input name="subject" type="text" class="input" placeholder="Subject" required/>
+</div>
 
-  <div class="input-container textarea">
-    <textarea name="message" class="input" required></textarea>
-    <label for="message">Message</label>
-    <span>Message</span>
-  </div>
-  <input type="submit" value="Send" class="btn" />
+<div class="input-container textarea">
+    <textarea name="message" class="input" placeholder="Message" required></textarea>
+</div>
+<input type="submit" value="Send" class="btn" />
 </form>
 
         </div>
