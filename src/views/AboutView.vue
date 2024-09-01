@@ -196,16 +196,16 @@ export default {
           <p class="mb-3 fadein-left fadeins-1">
             &nbsp; &nbsp; &nbsp; Hi everyone! I'm Mariyam Member, a third-year Networking and Information Technology student 
             at Ontario Tech University, with a passion for cloud technologies. My goal is to become a Cloud Engineer, where I 
-            can merge my networking expertise with cloud platforms to create efficient and scalable solutions.
+            can merge my networking knowledge with cloud platforms to create efficient and scalable solutions.
           </p>
           <p class="mb-3 fadein-left fadeins-1">
-            &nbsp; &nbsp; &nbsp; During my academic journey, I've honed my skills in configuring, troubleshooting, and optimizing 
-            networks. I'm proficient in networking protocols like TCP/IP, VLAN, DNS, and DHCP, and have hands-on experience with cloud platforms, 
+            &nbsp; &nbsp; &nbsp; During my academic journey, I've developed my skills in configuring, troubleshooting, and optimizing 
+            networks. I have a deep understanding in networking and have hands-on experience with cloud platforms, 
             including AWS and Azure.
           </p>
           <p class="mb-3 fadein-left fadeins-1">
             &nbsp; &nbsp; &nbsp; I'm driven by problem-solving, analytical thinking, and effective communication. I thrive in team environments 
-            and am always eager to learn and grow. My academic achievements and commitment to continuous learning fuel my enthusiasm for the field.
+            and am always eager to learn and grow. My academic achievements and commitment to continuous learning drive my enthusiasm for the field.
           </p>
           <p class="mb-3 fadein-left fadeins-1">
             &nbsp; &nbsp; &nbsp; Feel free to check out my projects and get in touch!
