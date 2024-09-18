@@ -61,7 +61,7 @@ export default {
         {
           id: 7,
           name: 'Case Study | INFR 1421U',
-          imageUrl: 'https://media.licdn.com/dms/image/v2/D562DAQFNDJDJCyq14w/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1690758696124?e=1725411600&v=beta&t=eE4EZF_kS86f5ggmJV0t8UT_8eVOot4uf-_NbpH8MKM',
+          imageUrl: 'https://i.imgur.com/iY3SaGV.png',
           status: 'Designed and implemented a pilot network for CryptoMine using Cisco Packet Tracer, connecting branches across North America with BGP, OSPF, and VLANs. Showcased skills in network configuration, secure remote access, and inter-VLAN routing.',
           tech: 'Cisco Packet Tracer',
           github: 'null',
@@ -70,7 +70,7 @@ export default {
         {
           id: 8,
           name: 'Case Study | INFR 2421U',
-          imageUrl: 'https://media.licdn.com/dms/image/v2/D4E2DAQHJOo7xHYw2tg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1719367279945?e=1725411600&v=beta&t=YiFkzxuBsuWiXaLTUIvYQ54koLKx4FksC3s3wT1MU1w',
+          imageUrl: 'https://i.imgur.com/oYE2pR8.png',
           status: 'Designed and deployed LAN and WAN infrastructure for Ontario Tech University, using MPLS, DMVPN, VLANs, and HSRP for resilience and secure connectivity.',
           tech: 'TCL scripting, Traceroute, SecureCRT',
           github: 'null',
